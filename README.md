@@ -1,6 +1,6 @@
 # Hi, I'm Oleg Gerbylev 👋  
 
-I'm a Python developer passionate about artificial intelligence and cats. I participate in hackathons and work as a data analyst. *My avatar is an AI-generated image created by FLUX, fine-tuned on my face*.
+I'm a Python developer passionate about artificial intelligence and cats. I participate in hackathons and work as a data analyst.
 
 ---
 
